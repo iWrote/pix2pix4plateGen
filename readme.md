@@ -11,7 +11,7 @@ Step 5: DIY mini-project: Generate images like MNIST handwritten digits with a G
 Step 6: Research (a.k.a. intensively google) GAN architectures smarter people have come up with.   
 Step 7: Carefully read the paper on pix2pix.   
 Step 8: Follow an excellent tensorflow tutorial, translating to pyTorch as you go. Regret Step 2.   
-Step 9: Try a bunch on things. (Longest step. See .pptx)   
+Step 9: Try a bunch on things. Tweak. Rinse. Repeat. (Longest step. See .pptx)   
 Step 10: Done.   
 
 #### Solution (see .pptx):
