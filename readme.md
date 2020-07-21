@@ -19,6 +19,7 @@ Step 10: Done.
 - Char to monochrome.  
 - Wipe said butts. Brand with a new number.  
 - Reshade/Rescorch.  
+
 ![](https://github.com/iWrote/pix2pix4plateGen/blob/master/PICTURES%20Yay/final%20solution.PNG)
 ![](https://github.com/iWrote/pix2pix4plateGen/blob/master/PICTURES%20Yay/SUCCESS__pug_plate.png)  
 ![](https://github.com/iWrote/pix2pix4plateGen/blob/master/PICTURES%20Yay/LOW-RES-PLATE-GEN.gif)  
