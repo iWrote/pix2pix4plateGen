@@ -22,7 +22,7 @@ Step 10: Done.
 ![](https://github.com/iWrote/pix2pix4plateGen/blob/master/PICTURES%20Yay/final%20solution.PNG)
 ![](https://github.com/iWrote/pix2pix4plateGen/blob/master/PICTURES%20Yay/SUCCESS__pug_plate.png)  
 ![](https://github.com/iWrote/pix2pix4plateGen/blob/master/PICTURES%20Yay/LOW-RES-PLATE-GEN.gif)  
-Threw in a ("butt-crack only") cropped-image generation script on request. 
+Threw in a cropped-image generation script on request. 
 
 #### Other kewl stuff:
 See .pptx and notebooks for implementation details.   
