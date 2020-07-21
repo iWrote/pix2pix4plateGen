@@ -1,0 +1,13 @@
+/lp_data
+/.ipynb_checkpoints
+/results.csv
+/sieved_images
+/images
+/imagesAll
+/generated_images
+/epochModelParamData
+/pug_plate.png
+/ThePugTest.png
+/cdac_data.npy
+/czech_data.npy
+*.png

@@ -1,0 +1,30 @@
+/crop_h1
+/crop_h2
+/crop_h3
+/crop_h4
+/crop_m1
+/crop_m2
+/crop_m3
+/crop_m4
+/edgePhotoPairsColourBalancedOnly
+/real_pairs.npy
+/.ipynb_checkpoints
+/generated_images
+/epochModelParamData
+/pix2pixPlateGenLog.log
+/czechLicensePlateImagesDATASET.zip
+/CollatedData
+/CollatedDataCleaned
+/CollatedDataH
+<<<<<<< HEAD
+/ThePugTest.png
+/dirty_test_data.npy
+/G6_gray2gray_okayResuts.pth
+/grayTest
+/dirtyTest
+*.npy
+=======
+/CDAC data
+/grayTest
+/dirtyTest
+>>>>>>> colorTry
