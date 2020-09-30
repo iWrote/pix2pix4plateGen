@@ -1,5 +1,4 @@
-Original repo had data interns cannot share online. Redacted. Cue spy music.
-
+Implemented pix2pix [(paper)](https://arxiv.org/pdf/1611.07004.pdf) for image translation.
 #### Problem: Creating fake (but realistic) images to train an automated number plate recognition program. Because we don't have enough real ones. Procedural generation is not allowed. 
 ![](https://github.com/iWrote/pix2pix4plateGen/blob/master/PICTURES%20Yay/final%20solution.PNG)
 ![](https://github.com/iWrote/pix2pix4plateGen/blob/master/PICTURES%20Yay/SUCCESS__pug_plate.png)  
@@ -32,8 +31,28 @@ Original repo had data interns cannot share online. Redacted. Cue spy music.
 .  
 .  
 .  
+.
+.
+.
+.
+.
+.
+
+.
+.
+..
 
 
+.
+
+
+
+.
+
+
+
+
+Original repo had data interns cannot share online. Redacted. Cue spy music.  
 Step 0: Panick.   
 Step 1: Read about all this AI jazz.   
 Step 2: Get intimidated by tensorflow and do pyTorch tutorials.  
