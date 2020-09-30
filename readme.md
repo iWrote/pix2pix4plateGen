@@ -6,7 +6,7 @@ Original repo had data interns cannot share online. Redacted. Cue spy music.
 ![](https://github.com/iWrote/pix2pix4plateGen/blob/master/PICTURES%20Yay/LOW-RES-PLATE-GEN.gif)  
 
 
-#### and for fun
+#### and for fun (a simple GAN getting better at faking handwritten numbers)
 ![](https://github.com/iWrote/pix2pix4plateGen/blob/master/phase%201%20practice%20notebooks/mnistGanSuccess.gif)
 .  
 .  
