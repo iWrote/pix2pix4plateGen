@@ -1,5 +1,6 @@
 Original repo had data interns cannot share online. Redacted. Cue spy music.
 
+#### Problem: Creating fake (but realistic) images to train an automated number plate recognition program. Because we don't have enough real ones. Procedural generation is not allowed. 
 ![](https://github.com/iWrote/pix2pix4plateGen/blob/master/PICTURES%20Yay/final%20solution.PNG)
 ![](https://github.com/iWrote/pix2pix4plateGen/blob/master/PICTURES%20Yay/SUCCESS__pug_plate.png)  
 ![](https://github.com/iWrote/pix2pix4plateGen/blob/master/PICTURES%20Yay/LOW-RES-PLATE-GEN.gif)  
@@ -32,7 +33,6 @@ Original repo had data interns cannot share online. Redacted. Cue spy music.
 .  
 .  
 
-#### Problem: Creating fake (but realistic) images to train an automated number plate recognition program. Because we don't have enough real ones. Procedural generation is not allowed. 
 
 Step 0: Panick.   
 Step 1: Read about all this AI jazz.   
