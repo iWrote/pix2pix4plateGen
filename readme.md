@@ -1,4 +1,4 @@
-Implemented pix2pix [(paper)](https://arxiv.org/pdf/1611.07004.pdf) for image translation.
+Implemented pix2pix [(paper)](https://arxiv.org/pdf/1611.07004.pdf) for image translation. Final [presentation](https://github.com/iWrote/pix2pix4plateGen/blob/master/Synthetic%20data%20generation%20using%20GANs.pptx) (.ppt).
 #### Problem: Creating fake (but realistic) images to train an automated number plate recognition program. Because we don't have enough real ones. Procedural generation is not allowed. 
 ![](https://github.com/iWrote/pix2pix4plateGen/blob/master/PICTURES%20Yay/final%20solution.PNG)
 ![](https://github.com/iWrote/pix2pix4plateGen/blob/master/PICTURES%20Yay/SUCCESS__pug_plate.png)  
@@ -68,8 +68,8 @@ Step 10: Done.
 #### Solution (see .pptx):
 - Use photographs of [car butts](https://medusa.fit.vutbr.cz/traffic/research-topics/general-traffic-analysis/holistic-recognition-of-low-quality-license-plates-by-cnn-using-track-annotated-data-iwt4s-avss-2017/)   
 - Char to monochrome.  
-- Wipe said butts. Brand with a new number.  
-- Reshade/Rescorch.  
+- Brand with a new number.  
+- Reshade 
 
         
          
