@@ -7,48 +7,6 @@ Implemented pix2pix [(paper)](https://arxiv.org/pdf/1611.07004.pdf) for image tr
 
 #### and for fun (a simple GAN getting better at faking handwritten numbers)
 ![](https://github.com/iWrote/pix2pix4plateGen/blob/master/phase%201%20practice%20notebooks/mnistGanSuccess.gif)
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.
-.
-.
-.
-.
-.
-
-.
-.
-..
-
-
-.
-
-
-
-.
-
 
 
 
